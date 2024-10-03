@@ -1,0 +1,30 @@
+p {
+color: white;
+background-color: rgb(202, 160, 242);
+width: 30%;
+height: 4%;
+}
+h2 {
+    color: white;
+    background-color :  rgb(202, 160, 242) ;
+    width: 16%;
+    height: 5%;
+}
+body{
+    background-color: rgb(235, 219, 241);
+}
+select {
+    color: white;
+    background-color:  rgb(202, 160, 242);
+    width: 8%;
+    height: 5%;
+}
+div {
+    border: 3px dotted rgb(63, 10, 113) ;
+    width: 30%;
+    height: 4%;
+}
+button {
+    color: white;
+    background-color:  rgb(80, 18, 138);
+}
